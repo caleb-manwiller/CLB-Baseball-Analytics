@@ -11,6 +11,7 @@ Technologies Used
 - NumPy
 - Matplotlib
 - R
+
 Key Features
 - Baseball game simulation engine
 - Full-season Monte Carlo simulations
