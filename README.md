@@ -1,4 +1,4 @@
-**#Card League Baseball Analytics**
+**Card League Baseball Analytics**
 An independent baseball analytics and simulation project built using Python and R.
 
 **Project Overview**
